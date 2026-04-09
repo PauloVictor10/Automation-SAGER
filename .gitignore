@@ -1,0 +1,8 @@
+credencial.json
+*.json
+.env
+logs/
+prints_ons/
+__pycache__/
+venv/
+*.log
