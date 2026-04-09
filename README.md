@@ -33,6 +33,8 @@ STATUS DAS USINAS:
 ✅ Babilônia Sul Solar
 ⚠️ RelatorioGeral_304 — Ignorado
 
+![SAGER](SAGER.png)
+
 🗂️ Estrutura do Projeto
 /opt/automation/
 ├── gerar_sessao.py          # Gera e salva sessão autenticada no ONS
