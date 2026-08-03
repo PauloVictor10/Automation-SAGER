@@ -50,10 +50,10 @@ MAPA_USINAS = {
 # ==============================
 # EMAIL
 # ==============================
-EMAIL_SISTEMA = "aplan.notificacoes@gmail.com"
-EMAIL_SENHA   = "dwbu nxga jnjt riwj"  # senha de app Gmail
-EMAIL_CC      = "paulo.victor.carneiro@outlook.com"
-EMAIL_TO      = "paulovictormcarneiro@gmail.com"
+EMAIL_SISTEMA = ""
+EMAIL_SENHA   = ""  
+EMAIL_CC      = ""
+EMAIL_TO      = ""
 
 
 def saudacao():
