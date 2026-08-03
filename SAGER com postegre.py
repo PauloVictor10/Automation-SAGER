@@ -303,7 +303,7 @@ def get_credentials():
 # ==============================
 
 # Fallback: connection string direta (caso variável de ambiente não esteja disponível)
-DATABASE_URL_FALLBACK = "postgresql://postgres.evfmquiajtvzvhfzwvfs:owvyNbmiYetZ61JA@aws-1-sa-east-1.pooler.supabase.com:5432/postgres"
+DATABASE_URL_FALLBACK = ""
 
 def get_db_connection():
     db_url = os.environ.get("DATABASE_URL") or DATABASE_URL_FALLBACK
