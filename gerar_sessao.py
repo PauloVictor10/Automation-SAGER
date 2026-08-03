@@ -6,8 +6,8 @@ USUARIO_XPATH = '/html/body/div/div[2]/div/div/div[1]/div/form/div[1]/input'
 SENHA_XPATH   = '/html/body/div/div[2]/div/div/div[1]/div/form/div[2]/input'
 ENTRAR_XPATH  = '/html/body/div/div[2]/div/div/div[1]/div/form/div[4]/input[2]'
 
-USERNAME = "paulo.victor@casadosventos.com.br"
-PASSWORD = "windpower07#"
+USERNAME = ""
+PASSWORD = ""
 
 with sync_playwright() as p:
     browser = p.chromium.launch(
