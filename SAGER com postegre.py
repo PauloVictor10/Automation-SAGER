@@ -29,7 +29,7 @@ URL_SAGER    = "https://pops.ons.org.br/pop/#17269"
 USUARIO      = ""
 SENHA        = ""
 
-# Linha onde os dados começam no Excel (pula cabeçalho do relatório ONS)
+# Linha onde os dados começam no Excel 
 LINHA_INICIO_EXCEL = 10
 
 # ==============================
